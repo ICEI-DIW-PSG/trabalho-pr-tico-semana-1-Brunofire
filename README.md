@@ -11,10 +11,13 @@ Matricula:
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
+![essa é a minha print do navegador](images/inspeção.png)
+
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
 
+![essa é a minha print do projeto no Replit](images/print%20da%20tela.png)
 
 ## Orientações sobre Linguagem MarkDown
 
